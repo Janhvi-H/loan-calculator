@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.web-container {
+    font-family: 'Courier New', monospace;
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.box-container {
+    background-color: #008080;
+    /* Teal */
+    color: white;
+    padding: 30px;
+    border-radius: 10px;
+    width: 300px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.heading1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.label1 {
+    display: block;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+.input1 {
+    width: 94%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-family: inherit;
+    font-size: 16px;
+}
+
+.heading2 {
+    margin-top: 25px;
+    font-size: 18px;
+    font-weight: bold;
+}
